@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.one-section{
+    background-color: black;
+    color: white;
+    text-align-last: center;
+}
+.two-section{
+    display: inline-block;
+    border: solid black 2px;
+    margin-top: 50px;
+}
+
+
+.two-section__title{
+    font-size: medium 5px;
+    margin-top: 0%;
+    margin-bottom: 1px;
+}
+.two-section__desc{
+    text-align: ;
+    }
+.two-section__description{
+    background-color: black;
+    color: white;
+    margin-left: 5px;
+    margin-top: 5px;
+    }
+    .three-section{
+        display: inline-block;
+        border: solid black 2px;
+        margin-top: 30px;
+        display: inline-block;
+    }
+    .three-section__title{
+        font-size: medium 5px;
+        text-align: center;
+        margin-top: 0%;
+        margin-bottom: 1px;
+    }
+    .three-section__desc{
+        text-align: center;
+        }
+        .three-section__description{
+            background-color: black;
+            color: white;
+            margin-left: 5px;
+            margin-top: 5px;
+            }
+            .four-section{
+                display: inline-block;
+                border: solid black 2px;
+                margin-top: 50px;
+                display: inline-block;
+            }
+            .four-section__title{
+                font-size: medium 5px;
+                text-align: center;
+                margin-top: 0%;
+                margin-bottom: 1px;
+            }
+            .four-section__desc{
+                text-align: center;
+                }
+                .four-section__description{
+                    background-color: black;
+                    color: white;
+                    margin-left: 5px;
+                    margin-top: 5px;
+                    }
+                    .container{
+                        background-color:black;
+                        margin-top:  50px;
+                        padding-left: 300px;
+                        
+                        
+                    }
+                    .container-one{
+                        color: white;
+                        padding-left: 320px;
+                    }
+                    .container-two,.container-three,.container-four{
+                        color: white;
+                        padding-left: 300px;
+                        
+                    }
+                    .container-five{
+                        background-color: yellow;
+                        border: solid black 5px;
+                        color: black;
+                        margin-left: 300px;
+                        padding-left: 100px;
+                        padding-right: 100px;
+                        
+                        
+                        
+                        
+                    }
+                    .container-ten{
+                        text-align: center;
+                        
+                    }
+                        
+
+                          
+                
